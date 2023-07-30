@@ -1,7 +1,7 @@
 # Hello, we're Esports.me 👋
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/EsportsMe/.github/main/profile/esportsme.png" width="500">
+  <img src="https://raw.githubusercontent.com/EsportsMe/.github/main/profile/esportsme.png" alt="Esports.me" width="500">
 </div>
 
 ---
