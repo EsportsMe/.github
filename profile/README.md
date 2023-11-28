@@ -6,7 +6,7 @@
 
 ---
 
-Esports.me is a social gaming platform that revolutionizes the way players and teams connect in the competitive esports industry.
+Esports.me is a team management platform that revolutionises the way players and teams connect.
 
 ## 🌐 Socials
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Esportsme_/)
